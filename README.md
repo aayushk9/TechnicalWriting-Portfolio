@@ -10,3 +10,8 @@ https://aayushk.hashnode.dev/
    
     PR: https://github.com/asyncapi/website/pull/2578
 
+## OpenRefine -
+
+1) Improved Documentation of grel operators
+
+   Issue: https://github.com/OpenRefine/openrefine.org/issues/289
