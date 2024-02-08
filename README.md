@@ -12,6 +12,7 @@ https://aayushk.hashnode.dev/
 
 ## OpenRefine -
 
-1) Improved Documentation of grel operators
+1) Improved Documentation of grel functions page
 
    Issue: https://github.com/OpenRefine/openrefine.org/issues/289
+   PR: https://github.com/OpenRefine/openrefine.org/pull/295
