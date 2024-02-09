@@ -2,7 +2,7 @@
 
 https://aayushk.hashnode.dev/
 
-## AsyncApi -
+## AsyncApi/Website-
 
 1) Structured Enhancement of Guide to APIs and Architecture Concepts Blog
 
@@ -17,3 +17,9 @@ https://aayushk.hashnode.dev/
    Issue: https://github.com/OpenRefine/openrefine.org/issues/289
    
    PR: https://github.com/OpenRefine/openrefine.org/pull/295
+
+## Iterative/dvc.org
+
+1) Added .gitattributes and eol to automatically convert line endings to lf.
+
+   Issue: https://github.com/iterative/dvc.org/issues/5114
