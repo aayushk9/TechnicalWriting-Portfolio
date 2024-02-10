@@ -15,11 +15,14 @@ https://aayushk.hashnode.dev/
 1) Improved Documentation of grel functions page
 
    Issue: https://github.com/OpenRefine/openrefine.org/issues/289
+
+   Merged PR: https://github.com/OpenRefine/openrefine.org/pull/296
    
-   PR: https://github.com/OpenRefine/openrefine.org/pull/295
+   Closed PR: https://github.com/OpenRefine/openrefine.org/pull/295
 
 ## Iterative -
 
 1) Added .gitattributes and eol to automatically convert line endings to lf.
 
    Issue: https://github.com/iterative/dvc.org/issues/5114
+
