@@ -10,7 +10,7 @@ https://aayushk.hashnode.dev/
 
    Merged PR: https://github.com/OpenRefine/openrefine.org/pull/296
    
-   Closed PR: https://github.com/OpenRefine/openrefine.org/pull/295 (It includes detailed conversations made during the collaboration) 
+   Closed PR: https://github.com/OpenRefine/openrefine.org/pull/295  (It includes detailed conversations made during the collaboration) 
 
 ## AsyncApi -
 
