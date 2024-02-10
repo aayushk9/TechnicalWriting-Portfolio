@@ -8,9 +8,7 @@ https://aayushk.hashnode.dev/
 
    Issue: https://github.com/OpenRefine/openrefine.org/issues/289
 
-   Merged PR: https://github.com/OpenRefine/openrefine.org/pull/296
-   
-   Closed PR: https://github.com/OpenRefine/openrefine.org/pull/295  (It includes detailed conversations made during the collaboration) 
+   PR: https://github.com/OpenRefine/openrefine.org/pull/296
 
 ## AsyncApi -
 
