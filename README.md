@@ -10,7 +10,7 @@ https://aayushk.hashnode.dev/
 
    Merged PR: https://github.com/OpenRefine/openrefine.org/pull/296
    
-   Closed PR: https://github.com/OpenRefine/openrefine.org/pull/295 (It includes the collaborative discussions and changes made in the attempt to improve the documentation of grel functions page in OpenRefine)
+   Closed PR: https://github.com/OpenRefine/openrefine.org/pull/295 (It includes detailed conversations and updates made during the collaboration)
 
 ## AsyncApi -
 
