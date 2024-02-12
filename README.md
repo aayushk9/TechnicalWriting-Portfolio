@@ -24,3 +24,5 @@ https://aayushk.hashnode.dev/
 
    Issue: https://github.com/iterative/dvc.org/issues/5114
 
+   PR: https://github.com/iterative/dvc.org/pull/5117
+
