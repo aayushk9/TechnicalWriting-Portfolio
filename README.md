@@ -4,7 +4,7 @@ https://aayushk.hashnode.dev/
 
 ## OpenRefine -
 
-1) Improved Documentation of grel functions page
+1) Improved Documentation of GREL page
 
    Issue: https://github.com/OpenRefine/openrefine.org/issues/289
 
@@ -20,8 +20,8 @@ https://aayushk.hashnode.dev/
 
 ## AsyncApi -
 
-1) docs: Instructions on how to contribute to documentation in readme
-
+1) Enhanced Accessibility by adding 'How to Contribute to AsyncAPI Docs' Section in README 
+    
     Issue: https://github.com/asyncapi/website/issues/2561
    
     PR: https://github.com/asyncapi/website/pull/2565
