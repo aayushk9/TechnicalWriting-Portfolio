@@ -4,7 +4,7 @@ https://aayushk.hashnode.dev/
 
 ## OpenRefine -
 
-1) Improved Documentation of GREL page
+1) Improved Documentation of GREL page.
 
    Issue: https://github.com/OpenRefine/openrefine.org/issues/289
 
@@ -18,9 +18,15 @@ https://aayushk.hashnode.dev/
 
    PR: https://github.com/iterative/dvc.org/pull/5117
 
+2) Added Documentation for Azure Remote.
+
+   Issue: https://github.com/iterative/dvc.org/issues/5151
+
+   PR: https://github.com/iterative/dvc.org/pull/5158
+   
 ## AsyncApi -
 
-1) Enhanced Accessibility by adding 'How to Contribute to AsyncAPI Docs' Section in README 
+1) Enhanced Accessibility by adding 'How to Contribute to AsyncAPI Docs' Section in README.
     
     Issue: https://github.com/asyncapi/website/issues/2561
    
