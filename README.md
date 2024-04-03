@@ -6,9 +6,9 @@
 
 [geeksforgeeks.org](https://auth.geeksforgeeks.org/user/aayushk9/articles)
 
-# Open Source Contributions
+## Open Source Contributions
 
-## OpenRefine -
+### OpenRefine -
 
 1) Improved Documentation of GREL page.
 
@@ -16,7 +16,7 @@
 
    PR: https://github.com/OpenRefine/openrefine.org/pull/296
 
-## Iterative -
+### Iterative -
 
 1) Added .gitattributes and eol to automatically convert line endings to lf.
 
@@ -30,7 +30,7 @@
 
    PR: https://github.com/iterative/dvc.org/pull/5158
    
-## AsyncApi -
+### AsyncApi -
 
 1) Enhanced Accessibility by adding 'How to Contribute to AsyncAPI Docs' Section in README.
     
