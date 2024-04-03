@@ -2,11 +2,9 @@
 
 https://aayushk.hashnode.dev/
 
-## Published Articles
+## My Published Articles
 
-1) https://www.geeksforgeeks.org/how-to-build-a-restful-api-using-node-express-and-mongodb/
-   
-2) https://www.geeksforgeeks.org/pagination-using-node-mongo-express-js-and-ejs/ 
+https://auth.geeksforgeeks.org/user/aayushk9/articles
 
 ## OpenRefine -
 
