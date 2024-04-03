@@ -1,10 +1,10 @@
-## Technical blogs 
+## Hashnode blogs 
 
 https://aayushk.hashnode.dev/
 
 ## My Published Articles
 
-https://auth.geeksforgeeks.org/user/aayushk9/articles
+[Click here](https://auth.geeksforgeeks.org/user/aayushk9/articles) to view my published articles.
 
 ## OpenRefine -
 
